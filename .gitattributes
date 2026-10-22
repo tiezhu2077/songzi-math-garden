@@ -1,0 +1,7 @@
+# Keep generated content-addressed assets byte-identical to build manifests.
+/index.html -text
+/asset-manifest.json -text
+/version.json -text
+/CHANGELOG.md -text
+/assets/*.js -text
+/assets/*.css -text
