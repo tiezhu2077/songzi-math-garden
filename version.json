@@ -1,8 +1,8 @@
 {
-  "version": "1.1.7",
-  "date": "2026-10-23",
+  "version": "1.1.8",
+  "date": "2026-10-25",
   "saveSchemaVersion": 2,
-  "baseVersion": "1.1.6",
+  "baseVersion": "1.1.7",
   "changelog": "CHANGELOG.md",
-  "indexSHA256": "490701ff079410ba2d0a25aadf1a5f5172618444ae3a3ac00f7e98d3c84fd0b5"
+  "indexSHA256": "1c9e95b9e0a119eeed4d03967e5df3880bbb150ac9bfa6cb4469e777c8c07aee"
 }
