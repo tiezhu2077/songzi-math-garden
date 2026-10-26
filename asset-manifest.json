@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "inputIndexSHA256": "8fb503514c55793dce64884285a1740682d7c540ad2369998aa5ae69a6319c00",
-  "indexSHA256": "1c9e95b9e0a119eeed4d03967e5df3880bbb150ac9bfa6cb4469e777c8c07aee",
+  "inputIndexSHA256": "14bd5ca7ba8acdf88544b3deb201c00b00e561cf1b7c95780b6737457f0cbae7",
+  "indexSHA256": "2a12688bd95331a732512c96533f91e78a6191fb6e7d9a717a91b0bbc92cc28c",
   "encoding": "Pillow WebP lossless exact=True method=4; identical decoded RGBA including transparent pixels; use PNG if smaller",
   "assets": [
     {
@@ -509,9 +509,9 @@
       "height": 1024
     },
     {
-      "file": "assets/5c2e29d3b0288724899fdc9607fb3f9d27454660e132000a27b331768437b25f.js",
-      "bytes": 1026627,
-      "sha256": "5c2e29d3b0288724899fdc9607fb3f9d27454660e132000a27b331768437b25f"
+      "file": "assets/16965e08a6f5fbfa28ee53ebbfab2ec4d212d60bf6e58c9f6f6e05ab9c86a27a.js",
+      "bytes": 1048295,
+      "sha256": "16965e08a6f5fbfa28ee53ebbfab2ec4d212d60bf6e58c9f6f6e05ab9c86a27a"
     },
     {
       "file": "assets/aab9104178925d15e05f96042c0ced59cceb66164b0a153fb30a41b9b1ca72c7.css",
