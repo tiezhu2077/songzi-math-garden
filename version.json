@@ -1,8 +1,9 @@
 {
-  "version": "1.1.9",
+  "version": "1.1.10",
   "date": "2026-10-26",
   "saveSchemaVersion": 2,
-  "baseVersion": "1.1.8",
+  "baseVersion": "1.1.9",
   "changelog": "CHANGELOG.md",
-  "indexSHA256": "2a12688bd95331a732512c96533f91e78a6191fb6e7d9a717a91b0bbc92cc28c"
+  "indexSHA256": "6e464f7bb3b42c8b4b36ccb5ff1a76b11629393422464e54735e1dbff7d38c77",
+  "buildKind": "integrated-performance-release"
 }

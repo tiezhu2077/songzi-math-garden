@@ -1,0 +1,15 @@
+{
+  "sourceSHA256": "1626a9ef308e3df502013c02500d7f80f33ad3e33b40f17e385686810a961b4d",
+  "width": 1145,
+  "height": 1374,
+  "changedPixels": 94914,
+  "pixelHashes": {
+    "on": "7765eef5eab248e20800ac48714a1f638c195ca6090d4f49ce31d44c7fecf515",
+    "off": "10d0707ef04a20b186eb80a0675b74c78fce21773e121d10ff4a755caaad2d96"
+  },
+  "algorithm": "same Path2D/isPointInPath and Uint8ClampedArray math as previous runtime; native Canvas model, not browser pixel verification",
+  "outputFileHashes": {
+    "on.png": "335135079d6e9df7c48a37035da0b896feccd072045f50e92d38613a0f9520e9",
+    "off.png": "26bd87806b7973cd99c607af3a72ce74eedd31b96057390f0249ca46685169c4"
+  }
+}
